@@ -1,1 +1,1 @@
-Artificial_Intelligence_tak-1
+Artificial_Intelligence_task-1
